@@ -1,0 +1,236 @@
+.container{
+    width: 1505px;
+    height: 4000px;
+    background-color: rgb(255, 255, 255);
+    margin: 0 auto;
+}
+.box{
+    width: 1505px;
+    height: 70px;
+    background-color: #095ACD;
+}
+.box img{
+    cursor: pointer;
+    margin-left: 210px;
+    margin-top: 20px;
+}
+.ra input{
+    width: 304px;
+    height: 46px;
+    background-color: rgb(69, 69, 253);
+   border: solid 0px rgb(86, 86, 255);
+   margin-top: -5px;
+   color: white;
+}
+.ra i{
+    color: white;
+}
+.ra i{
+    margin-left: -305px;
+}
+.ra {
+    margin-left: 540px;
+    margin-top: -35px;
+}
+.pp p{
+    color: white;
+    display: inline;
+    margin-left: 10px;
+}
+.pp{
+    margin-left: 930px;
+    margin-top: -30px;
+}
+.bu button{
+    width: 160px;
+    height: 51px;
+    background-color: #FE8B37;
+    border-radius: 4px;
+    border: solid #FE8B37;
+    cursor: pointer;
+    color: white;
+}
+button:hover{
+    background-color: white;
+    color: black;
+    border: solid black;
+    transition: 1s;
+}
+.bu{
+    margin-left: 1230px;
+    margin-top: -35px;
+}
+.box1{
+    width: 1505px;
+    height: 450px;
+    background-color: #095ACD;
+    display: flex; 
+}
+.yo h1{
+    text-align: center;
+    font-family: SF Pro Display;
+    font-size: 64px;
+    color: white;
+}
+.yo{
+    margin-top: 100px;
+    margin-left: 290px;
+
+}
+.box3{
+    width: 1280px;
+    height: 100px;
+    background-color: white;
+    margin-top: -40px;
+    text-align: center;
+    box-shadow:  rgb(173, 173, 173) 1px 1px 1px 1px;
+}
+.io {
+    margin-top: -80px;
+    margin-left: 130px;
+}
+.oi i{
+    color: blue;
+    cursor: pointer;
+    margin-top: -40px;
+}
+.oi{
+    margin-top: -39px;
+    margin-left: 14px;
+}
+i{
+    cursor: pointer;
+}
+.hr hr{
+    width: 0px;
+    background: linear-gradient(black black);
+    height: 100px;
+    margin-left: 250px;
+    margin-top: -60px;
+}
+.ha{
+    margin-left: 200px;
+}
+.ham{
+    margin-left: 500px;
+}
+.hamm{
+    margin-left: 790px;
+}
+i:hover{
+    color: white;
+}
+.inpo input{
+    width: 154px;
+    height: 100px;
+    background-color: #006AFF;
+}
+.inpo{
+    margin-left: 320px;
+    margin-top: -59px;
+}
+.inu{
+    margin-left: 50px;
+    margin-top: -80px;
+}
+.box4{
+    width: 1280px;
+    height: 3000px;
+    background-color: rgb(255, 255, 255);
+    margin-left: -15px;
+    margin-top: 150px;
+    
+}
+.ota{
+   display: flex;
+   gap: 20px;
+}
+.box5{
+    width: 407px;
+    height: 692px;
+    background-color: rgb(255, 255, 255);
+    border: solid silver;
+}
+.yut{
+    display: flex;
+    gap: 20px;
+ }
+.box6{
+    width: 407px;
+    height: 692px;
+    background-color: rgb(255, 255, 255);
+    border: solid silver;
+}
+i{
+    color: blue;
+}
+.bo7{
+    margin-left: 200px;
+    margin-top: -105px;
+}
+.buy button{
+    width: 148px;
+    height: 51px;
+    background-color:#006AFF;
+    border:  solid #006AFF;
+    cursor: pointer;
+    color: white;
+}
+button:hover{
+    background-color: white;
+    border: black solid;
+    color: black;
+    transition: 1s;
+}
+.buy{
+    margin-top: -600px;
+}
+.but{
+    width: 625px;
+    height: 301px;
+    background-color: #006AFF;
+    margin-top: 300px;
+    margin-left: -22px;
+}
+.ima{
+    margin-left: 317px;
+    margin-top: -310px;
+}
+.but1{
+    margin-left: 670px;
+    margin-top: -600px;
+}
+.hyt{
+    width: 1505px;
+    height: 109px;
+    background-color: #006AFF;
+    margin-top: 180px;
+    margin-left: -130px;
+    display: flex;
+}
+.imge{
+    margin-left: 250px;
+   
+    margin-top: 40px;
+}
+.imgr p{
+    display: inline;
+    margin-left: 30px;
+    color: white;
+}
+.imgr i{
+    color: white;
+}
+.imgr{
+    margin-left: 220px;
+    margin-top: 40px;
+}
+.ii i{
+    display: inline;
+    margin-left: 20px;
+    color: white;
+}
+.ii {
+    margin-left: 100px;
+    margin-top: 40px;
+}
